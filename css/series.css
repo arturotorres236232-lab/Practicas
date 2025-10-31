@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: rgb(66, 66, 66);
+}
+
+header {
+    text-align: center;
+    background-color: brown;
+    padding: 8px;
+    margin: 0;
+    color: rgb(34, 34, 34);
+}
+
+
+.series-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap; 
+}
+
+.serie {
+    text-align: center;
+    background-color: rgba(240, 255, 255, 0.825);
+    padding: 20px;
+    margin: 0;
+    border-radius: 10px;
+    width: 300px; 
+    box-sizing: border-box; 
+}
+
+
+.serie img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+
+.descripcion {
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+footer {
+    background-color: brown;
+    padding: 8px;
+    margin: 0;
+    text-align: center;
+    color: rgba(240, 255, 255, 0.835);
+}
+
+

@@ -1,0 +1,9 @@
+/* Clase para centrar la imagen */
+.centrada {
+    display: block;      /* La convierte en bloque para poder usar margen automático */
+    margin: 20px auto;   /* Margen arriba y abajo 20px, y auto para centrar horizontalmente */
+    max-width: 100%;     /* Para que no se salga de la pantalla si es muy grande */
+    height: auto;        /* Mantiene la proporción */
+    border-radius: 10px; /* Opcional: bordes redondeados para que se vea más lindo */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave */
+}

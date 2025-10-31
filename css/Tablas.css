@@ -1,0 +1,38 @@
+/*Documento CSS*/
+
+* { margin: 0px;
+padding: 0px; }
+
+h1 { background-color: rgb(255, 145, 35);
+margin: 24px auto;
+padding: 44px;
+text-align: center
+}
+
+body{ background-color: rgb(234, 58, 58);}
+
+h2{background-color: rgb(138, 3, 3);
+padding: 16px;
+margin: 24px auto;
+text-align: center;
+color: rgb(203, 203, 203); }
+
+.Tablas {width: 50%; 
+    background-color: rgba(255, 158, 39, 0.892);
+       margin: 24px auto 24px auto ;
+       text-align: center; 
+       border-radius: 10px;   
+        padding: 24px;
+    }
+        
+
+
+      
+.centrada {
+    display: block;      
+    margin: 20px auto;   
+    max-width: 100%;     
+    height: auto;       
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}

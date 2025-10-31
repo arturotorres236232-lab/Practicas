@@ -1,0 +1,20 @@
+
+/*DOCUMENTO*/
+*{padding: 10px;
+margin: 0;
+
+}
+
+body {background-color: rgb(74, 74, 255);}
+
+h1{ text-align: center; 
+    padding: 16px 0px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 3cm;
+    line-height: 40%;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+} 
+audio {min-height: 100px;
+    background-color: blueviolet;}
